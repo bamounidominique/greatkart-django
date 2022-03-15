@@ -149,6 +149,6 @@ MESSAGE_TAGS = {
 # SMTP Configuration
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'dbdlinkcorp@gmail.com'
-EMAIL_HOST_PASSWORD = 'iilpuhjfixkcuotx'
+EMAIL_HOST_USER = 'xxxxxx'
+EMAIL_HOST_PASSWORD = 'xxxxxxxxxxxxxx'
 EMAIL_USE_TLS = True
